@@ -1,6 +1,3 @@
-import './styles/global.scss'
-
-import Home from './pages/Home'
 import Main from './pages/Main'
 
 function App() {
